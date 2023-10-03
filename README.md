@@ -1,6 +1,6 @@
 Hi there :clap:
 
-I am Frotend Lead Developer and Engineering Manager :laughing:
+I am Frotend Lead Developer :laughing:
 
 <br>
 
