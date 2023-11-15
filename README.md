@@ -25,6 +25,4 @@ I am Frotend Lead Developer :laughing:
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CreamCheese-Ja&theme=github_dark)
-
 
